@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on open-source projects, web development, and innovative tech solutions.
 - 📫 How to reach me:
 - Email: banushaik012@gmail.com
--LinkedIn: linkedin.com/in/shaik-hazeera-banu
--GitHub: github.com/ShaikHazeeraBanu
+   LinkedIn: linkedin.com/in/shaik-hazeera-banu
+   GitHub: github.com/ShaikHazeeraBanu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:I love solving problems, be it coding challenges or real-world issues, and I’m passionate about lifelong learning!
 
